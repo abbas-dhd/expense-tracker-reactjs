@@ -6,6 +6,7 @@ This is simple Expense Tracker made using ReactJS. This project is made using si
 ## Getting Started with this App
  Type in project directory
 ### `npm install`
+This will download and install all the required dependencies for this project.
 
 ## Available Scripts
 
